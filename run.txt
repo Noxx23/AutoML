@@ -1,0 +1,2 @@
+After found an issue : use this command line to run the app. 
+python -m streamlit run app.py --global.dataFrameSerialization="legacy"
